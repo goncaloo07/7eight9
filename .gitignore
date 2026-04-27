@@ -1,0 +1,9 @@
+config.php
+connection.php
+sqlconnection.php
+.DS_Store
+**/.DS_Store
+css/register.cs
+css/*.map
+js/*.map
+img/roupa/
